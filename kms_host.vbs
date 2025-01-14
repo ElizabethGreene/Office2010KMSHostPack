@@ -62,7 +62,7 @@ For Each objOS in GetObject("winmgmts:").InstancesOf("Win32_OperatingSystem")
     End If
     
     ' win8 or greater
-    If (Ver(0) = "6" And Ver(1) >= "2") Or (Ver(0) >= "7") Then
+    If (Ver(0) = "6" And Ver(1) >= "2") Or (Ver(0) >= 7) Then
        folder = "win8"
        Exit For
     End If
