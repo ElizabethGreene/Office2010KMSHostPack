@@ -1,12 +1,12 @@
 # Office2010KMSHostPack
 
-Office 2010 KMS Host License Pack modified to install on Server 2019 and newer OS
+Office 2010 KMS Host License Pack modified to install on Server 2016 and newer OS
 
 **Disclaimer: This solution is not endorsed or supported by Microsoft. Use it entirely at your own risk.**
 
 ## What is this?
 
-The Office 2010 KMS Host License Pack available from Microsoft will not install on Windows Server 2019 and newer OS due to this tiny one-line bug in the included kms_host.vbs script.
+The Office 2010 KMS Host License Pack available from Microsoft will not install on Windows Server 2016 and newer OS due to this tiny one-line bug in the included kms_host.vbs script.
 ![Diff showing two removed quotation marks around 7 on line 65](WhatsDifferent.png)
 
 I've fixed that, and am making it available for download here. It works for me, and it should work for you. That said, this modification is not supported by myself or Microsoft. Use it at your own risk.
