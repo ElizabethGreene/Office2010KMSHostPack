@@ -19,5 +19,4 @@ From the github repository, click the green code button and then click "Download
 Extract the Zip file into a folder, right-click "RunThisAsAdministrator.bat", and select "Run As Administrator".
 
 ## Contacts
-
-Please report any comments or issues via the issues tab above or ping the author on X at [@GreeneElizabeth](https://x.com/GreeneElizabeth).
+Please let me know if this is useful to you or report any comments or issues via the issues tab above or by pinging the author on X at [@GreeneElizabeth](https://x.com/GreeneElizabeth).  I like helping people, and your encouragement means a lot.
